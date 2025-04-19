@@ -16,7 +16,6 @@ Architecture client‑serveur, communication TCP, interface graphique SDL2.
 7. [Usage et interface](#usage-et-interface)  
 8. [Structure du projet](#structure-du-projet)  
 9. [Dépendances externes](#dépendances-externes)  
-10. [Auteur]
  
 
 ---
