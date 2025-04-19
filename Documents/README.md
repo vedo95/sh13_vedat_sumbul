@@ -178,7 +178,6 @@ sh13_etu/
 - **SDL2**  
 - **SDL2_image**  
 - **SDL2_ttf**  
-- **pthread** (pour la version threadée, si utilisée)  
 - **make** & **gcc**  
 
 ---
